@@ -1,6 +1,6 @@
 Diplomas-HP | 
 Certificaciones Internacionales HP LIFE
-![Diploma HP LIFE](./Introduccion%20a%20Destrezas%20E.pdf)
+![Diploma HP LIFE https://github.com/ArquiTrasportesIoT/Certificaciones-Internacionales-HP-LIFE
 
 Certificaciones en Transformación Digital, Datos y Ciberseguridad**
 
